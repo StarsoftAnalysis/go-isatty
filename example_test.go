@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/mattn/go-isatty"
+	"github.com/starsoftanalysis/go-isatty"
 )
 
 func Example() {

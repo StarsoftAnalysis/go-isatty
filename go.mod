@@ -1,4 +1,4 @@
-module github.com/mattn/go-isatty
+module github.com/starsoftanalysis/go-isatty
 
 go 1.15
 

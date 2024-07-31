@@ -1,9 +1,9 @@
 # go-isatty
 
-[![Godoc Reference](https://godoc.org/github.com/mattn/go-isatty?status.svg)](http://godoc.org/github.com/mattn/go-isatty)
-[![Codecov](https://codecov.io/gh/mattn/go-isatty/branch/master/graph/badge.svg)](https://codecov.io/gh/mattn/go-isatty)
-[![Coverage Status](https://coveralls.io/repos/github/mattn/go-isatty/badge.svg?branch=master)](https://coveralls.io/github/mattn/go-isatty?branch=master)
-[![Go Report Card](https://goreportcard.com/badge/mattn/go-isatty)](https://goreportcard.com/report/mattn/go-isatty)
+[![Godoc Reference](https://godoc.org/github.com/starsoftanalysis/go-isatty?status.svg)](http://godoc.org/github.com/starsoftanalysis/go-isatty)
+[![Codecov](https://codecov.io/gh/starsoftanalysis/go-isatty/branch/master/graph/badge.svg)](https://codecov.io/gh/starsoftanalysis/go-isatty)
+[![Coverage Status](https://coveralls.io/repos/github/starsoftanalysis/go-isatty/badge.svg?branch=master)](https://coveralls.io/github/starsoftanalysis/go-isatty?branch=master)
+[![Go Report Card](https://goreportcard.com/badge/starsoftanalysis/go-isatty)](https://goreportcard.com/report/starsoftanalysis/go-isatty)
 
 isatty for golang
 
@@ -14,7 +14,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/mattn/go-isatty"
+	"github.com/starsoftanalysis/go-isatty"
 	"os"
 )
 
@@ -32,7 +32,7 @@ func main() {
 ## Installation
 
 ```
-$ go get github.com/mattn/go-isatty
+$ go get github.com/starsoftanalysis/go-isatty
 ```
 
 ## License
@@ -41,7 +41,7 @@ MIT
 
 ## Author
 
-Yasuhiro Matsumoto (a.k.a mattn)
+Yasuhiro Matsumoto (a.k.a starsoftanalysis)
 
 ## Thanks
 
